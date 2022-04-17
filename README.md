@@ -1,6 +1,6 @@
 # Hi there, I'm MAROKY 👋 
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fmarokybot.xyz)](https://marokybot.xyz)
+[![Website](https://img.shields.io/website?label=marokybot.xyz&style=for-the-badge&url=https%3A%2F%2Fmarokybot.xyz)](https://marokybot.xyz)
 
 ## I'm new at programming!
 
