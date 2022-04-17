@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fmarokybot.xyz)](https://marokybot.xyz)
 
-## I'm a Husband, Father, Developer, and Teacher!!
+## I'm new at programming!
 
 - 🌱 I’m currently learning Python 🤣
 - 👯 I’m looking to learn more stuff!
